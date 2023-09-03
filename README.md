@@ -1,7 +1,8 @@
 # タイトル
 
 ## 概要
-- 初見の人のための簡単な説明
+- 初見の人のための![figure1_2](https://github.com/ShunKishimoto/TMPL-literature-review/assets/129728408/2fbd51af-6b7c-4a7f-8f80-bc079b765642)
+簡単な説明
 
 ## 問い
 fffffff
